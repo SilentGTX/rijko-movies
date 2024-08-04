@@ -17,7 +17,7 @@
     "react-scripts": "1.1.4",
     "stream-browserify": "^3.0.0",
     "vite-plugin-node-polyfills": "^0.22.0",
-    "webtorrent": "^1.9.7"
+    "webtorrent": "^1.8.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
